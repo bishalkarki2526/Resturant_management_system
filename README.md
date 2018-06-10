@@ -8,3 +8,5 @@ There are two files cafe.py and resturant.py
 It is a Cafe software which includes a calculator within the software and it is a old version.
 # resturant.py
 It is a restaurant mangement system same as cafe management system but of a new version.
+# Test_Calculator.py
+It is a simple calculator which is used in the software.
